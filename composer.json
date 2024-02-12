@@ -35,5 +35,11 @@
     },
     "scripts": {
         "test": "phpunit"
-    }
+    },
+    "funding": [
+        {
+            "type": "Buymeacoffee",
+            "url": "https://www.buymeacoffee.com/ksn.th"
+        }
+    ]
 }
